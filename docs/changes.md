@@ -262,7 +262,7 @@
 ### v21.0
 
 - [General] Support Android 11 🎉
-- [General] Add Safe Mode detection. Disable all modules when the device is booting into Safe Mode.
+- [General] Add Safe Mode detection. able all modules when the device is booting into Safe Mode.
 - [General] Increase `post-fs-data` mode timeout from 10 seconds to 40 seconds
 - [MagiskInit] Rewritten 2SI support from scratch
 - [MagiskInit] Support when no `/sbin` folder exists (Android 11)
